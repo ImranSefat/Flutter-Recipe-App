@@ -6,20 +6,23 @@
 
 ## The starter template project is available on the starter branch. 
 
-## Dribbble design link : https://dribbble.com/shots/15501521-Home-Rental-App
+## Behance Design link : https://www.behance.net/gallery/79320129/Mobile-app-UI-2020
 
 ## Screenshots of the completed project
 
 <p align="center"> 
 
-<img src="https://i.ibb.co/cbjkRxG/Simulator-Screen-Shot-i-Phone-12-Pro-Max-2021-04-21-at-15-34-25.png" width="300" />
+<img src="https://i.ibb.co/y6fqJ9q/Recipe-Snapshot-1.png" width="300" />
 
-<img src="https://i.ibb.co/B6k8k4T/Simulator-Screen-Shot-i-Phone-12-Pro-Max-2021-04-21-at-15-34-37.png" width="300" />
-
-
-<img src="https://i.ibb.co/h2NzxwN/Simulator-Screen-Shot-i-Phone-12-Pro-Max-2021-04-21-at-15-34-49.png" width="300" />
+<img src="https://i.ibb.co/JKnd2cZ/Recipe-Snapshot-2.png" width="300" />
 
 
-<img src="https://i.ibb.co/HDVRV7Z/Simulator-Screen-Shot-i-Phone-12-Pro-Max-2021-04-21-at-15-34-53.png" width="300" />
+<img src="https://i.ibb.co/JrJ2zTt/Recipe-Snapshot-3.png" width="300" />
+
+
+<img src="https://i.ibb.co/DGY0KHv/Recipe-Snapshot-4.png" width="300" />
+
+<img src="https://i.ibb.co/8BchPjb/Recipe-Snapshot-5.png" width="300" />
 
 </p>
+
