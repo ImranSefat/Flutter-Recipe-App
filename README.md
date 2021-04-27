@@ -1,9 +1,9 @@
 # Flutter Recipe App
 
 ## Youtube Link 
-<p align="center"> 
+
 [![Click to watch video](https://i.ibb.co/mH0fwWG/Youtube-Logo.png)](https://www.youtube.com/watch?v=9vFf-pLV3TA&t=179s)
-</p>
+
 
 ## The starter template project is available on the starter branch. 
 
